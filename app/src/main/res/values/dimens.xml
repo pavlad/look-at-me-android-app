@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="preview_width">216dp</dimen>
+    <dimen name="preview_height">288dp</dimen>
+    <dimen name="margin">16dp</dimen>
+</resources>

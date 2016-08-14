@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#000000</color>
+    <color name="looking">#CB0569</color>
+    <color name="not_looking">#30FF00</color>
+    <!--<color name="background_green_end">#19d29c</color>-->
+    <!--<color name="background_red_start">#ff9561</color>-->
+    <!--<color name="background_red_end">#ff5442</color>-->
+</resources>
