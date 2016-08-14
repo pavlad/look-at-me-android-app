@@ -1,6 +1,7 @@
-# stupid-app_look-at-me
+
 Based for 99% on https://github.com/kioli/AndroidLearning-FaceRecognition.
-Team: Lorenzo M., Mr. Smyrnov, Vladimir P.
+
+_Team: Lorenzo M., Mr. Smyrnov, Vladimir P._
 
 
 This app confirms whether you're actually looking at your phone screen, as sometimes we're just not sure.
