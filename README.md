@@ -1,3 +1,5 @@
+### Look at me app for Android
+## Winner of the Stupid Hackaton Amsterdam 2016
 
 Based for 99% on https://github.com/kioli/AndroidLearning-FaceRecognition.
 
